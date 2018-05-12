@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25861'
     url: http://www.gutenberg.org/2009/agents/25861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23468#Observations-on-the-Causes-Symptoms-and-Nature-of-Scrofula-or-King-s-Evil-Scurvy-and-CancerWi_
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2007-11-13'
 gutenberg_type: Text
